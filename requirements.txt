@@ -1,0 +1,3 @@
+# nos permite intalar todos nuestros paquetes. nos permite trabajar el mismo proyecto y siempre tener los mismos resultados
+
+django == 3.2.6
